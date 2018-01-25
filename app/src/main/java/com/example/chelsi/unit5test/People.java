@@ -5,4 +5,15 @@ package com.example.chelsi.unit5test;
  */
 
 public class People {
+
+    private int image;
+    private String name;
+
+    public int getImage() {
+        return image;
+    }
+
+    public String getName() {
+        return name;
+    }
 }
